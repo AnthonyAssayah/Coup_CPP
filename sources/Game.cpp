@@ -5,7 +5,7 @@
 #include <vector>
 
 const short MAX_PLAYERS = 6;
-
+ 
 using namespace std;
 
 namespace coup {
